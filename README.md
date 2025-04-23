@@ -1,0 +1,2 @@
+# Copy_FlappyBird
+ Esse é um clone do famoso Flappy Bird, desenvolvido por mim do zero usando Python e a biblioteca Pygame. O objetivo foi praticar e aplicar conceitos de programação, lógica de jogos, animação e manipulação de eventos com o Pygame.  O jogo mantém a essência do original: controle um passarinho que precisa voar entre canos sem encostar neles. Simples, desafiador e viciante!  Criei esse projeto como forma de aprendizado.
